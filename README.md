@@ -2,7 +2,7 @@
   <a href="https://www.rodrigobrito.dev.br/">
     <img width="100" src="https://www.rodrigobrito.dev.br/themes/web/assets/images/logo.svg">
   </a>
-</p=div>
+</div>
 
 <h2 align="center">Rodrigo Brito</h2>
 <h3 align="center">Desenvolvedor Web</h3>
