@@ -18,3 +18,12 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=brito101&theme=onedark&hide_border=true"/>
     </a>
 </div>
+
+## Contato
+
+<p id="socialIcons" align="center">
+    <a href="https://pt.stackoverflow.com/users/193373/rodrigo-carvalho-de-brito" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://www.instagram.com/rodrigobrito101/" alt="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
