@@ -49,5 +49,3 @@
     <a href="https://www.instagram.com/rodrigobrito101/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
-
-![snake gif](https://github.com/brito101/brito101/blob/output/github-contribution-grid-snake.svg)
