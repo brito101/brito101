@@ -14,6 +14,9 @@
      <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=brito101&theme=tokyonight&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
+   <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=brito101&theme=tokyonight&hide_border=true"/>
+    </a>
    
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brito101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
