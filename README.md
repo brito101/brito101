@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">Rodrigo Brito</h2>
-<h3 align="center">Desenvolvedor Web</h3>
+<h3 align="center">Red Team | Yellow Team | Desenvolvedor Web</h3>
 <div align="center">Full Stack PHP | Web Designer</div>
 
 
