@@ -8,7 +8,6 @@
 <h3 align="center">Red Team | Yellow Team | Desenvolvedor Web</h3>
 <div align="center">Full Stack PHP | Web Designer</div>
 
-
 <h2>Status</h2>
 <div>
      <a href="https://github-readme-stats.vercel.app">
