@@ -49,4 +49,6 @@
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://www.instagram.com/rodrigobrito101/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/rodrigo-carvalho-de-brito-43a130286/" alt="Linkedin">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </p>
