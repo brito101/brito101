@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
