@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.rodrigobrito.dev.br/">
-    <img width="100" src="https://www.rodrigobrito.dev.br/themes/web/assets/images/logo.svg">
+    <img width="100" src="[https://www.rodrigobrito.dev.br/themes/web/assets/images/logo.svg](https://www.rodrigobrito.dev.br/img/logo.svg)">
   </a>
 </div>
 
