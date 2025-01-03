@@ -6,7 +6,7 @@
 
 <h2 align="center">Rodrigo Brito</h2>
 <h3 align="center">Red Team | Yellow Team | Green Team | Desenvolvedor Web & AppSec</h3>
-<div align="center">Full Stack PHP | Web Designer | Red Team | DCPT | SYCP | CRTA | CAP | CNSP</div>
+<div align="center">Full Stack PHP | Web Designer | DCPT | SYCP | CRTA | CAP | CNSP</div>
 
 <h2>Status</h2>
 <div>
