@@ -9,15 +9,10 @@
 <div align="center">Full Stack PHP | Red Team | GREM | DCPT | SYCP | CRTA | CAP | CNSP</div>
 
 <h2>GitHub Status</h2>
-
-  <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=brito101&theme=tokyonight" width="51%" />
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brito101&layout=compact&show_icons=true&theme=tokyonight" alt="brito101 github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito101&layout=compact&theme=tokyonight" alt="brito101 github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=brito101&theme=merko" alt="brito101 github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=brito101&theme=tokyonight" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito101&layout=compact&theme=tokyonight" alt="brito101 github readme top-langs" width="38%" />
 </div>
 
 <h2>Stack</h2>
