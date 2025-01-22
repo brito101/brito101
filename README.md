@@ -8,19 +8,17 @@
 <h3 align="center">Desenvolvedor Web / AppSec</h3>
 <div align="center">Full Stack PHP | Red Team | GREM | DCPT | SYCP | CRTA | CAP | CNSP</div>
 
-<h2>Status</h2>
-<div>
-     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?&count_private=true&include_all_commits=true&username=brito101&theme=tokyonight&custom_title=GitHub+Stats&hide_border=true"/>
-    </a>
- <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=brito101&theme=tokyonight&hide_border=true"/>
-    </a>
-</div>
+<h2>GitHub Status</h2>
 
-<div  align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brito101&theme=tokyonight&hide_border=true" />
-  </div>
+  <div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=brito101&theme=tokyonight" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brito101&layout=compact&show_icons=true&theme=tokyonight" alt="brito101 github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito101&layout=compact&theme=tokyonight" alt="brito101 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=brito101&theme=merko" alt="brito101 github readme activity graph" width="60%" />
+</div>
 
 <h2>Stack</h2>
 
