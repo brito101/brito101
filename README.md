@@ -121,13 +121,6 @@ const rodrigo = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brito101&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A2332&title_color=00BCD4&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brito101&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A2332&title_color=00BCD4&text_color=FFFFFF" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=brito101&theme=tokyonight&hide_border=true&background=1A2332&ring=00BCD4&fire=FF6B35&currStreakLabel=00BCD4&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
