@@ -7,7 +7,7 @@
 </a>
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Rodrigo+Brito;Offensive+Security;Full+Stack+Developer;Red+Team+%7C+AppSec" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Offensive+Security;Full+Stack+Developer;Red+Team+%7C+AppSec" alt="Typing SVG" />
 </h1>
 
 [![Website](https://img.shields.io/badge/🌐_Website-rodrigobrito.dev.br-FF6B35?style=for-the-badge&labelColor=1A2332)](https://www.rodrigobrito.dev.br/)
