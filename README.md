@@ -5,8 +5,8 @@
 </div>
 
 <h2 align="center">Rodrigo Brito</h2>
-<h3 align="center">Red Team / Desenvolvedor Web</h3>
-<div align="center">Full Stack PHP | OSWE | GREM | DCPT | SYCP | CRTA | CAP | CNSP</div>
+<h3 align="center">Offensive Security / Web Development</h3>
+<div align="center">Red Team | Full Stack PHP | AppSec</div>
 
 <h2>GitHub Status</h2>
 <div align="center">
