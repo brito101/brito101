@@ -16,7 +16,7 @@
 ```
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=ROffensive+Security;Full+Stack+Developer;Red+Team+%7C+AppSec" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=600&lines=Rodrigo+Brito;Offensive+Security;Full+Stack+Developer;Red+Team+%7C+AppSec" alt="Typing SVG" />
 </h1>
 
 [![Website](https://img.shields.io/badge/🌐_Website-rodrigobrito.dev.br-FF6B35?style=for-the-badge&labelColor=1A2332)](https://www.rodrigobrito.dev.br/)
@@ -136,16 +136,6 @@ const rodrigo = {
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=brito101&theme=react-dark&bg_color=1A2332&color=00BCD4&line=FF6B35&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=brito101&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
