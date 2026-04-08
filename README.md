@@ -36,12 +36,11 @@ const rodrigo = {
   focus: {
     security: [
       "Penetration Testing",
-      "Web Application Security",
-      "OWASP Top 10",
+      "Secure application development",
+      "Reverse engineering malware",
     ],
     development: ["Laravel", "Vue.js", "API Design", "DevSecOps"],
   },
-  currentlyLearning: "Advanced Exploit Development & Container Security",
   challenge: "Securing applications while building them at scale",
   website: "https://www.rodrigobrito.dev.br",
 };
